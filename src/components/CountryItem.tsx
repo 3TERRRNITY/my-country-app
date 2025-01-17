@@ -30,6 +30,7 @@ const CountryItem: React.FC<CountryItemProps> = ({ country, onDelete }) => (
             alt={country.name_ru}
             fill
             sizes="(max-width: 768px) 22px, 44px"
+            loading="lazy"
           />
         </div>
       ) : (

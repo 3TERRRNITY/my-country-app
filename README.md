@@ -4,7 +4,7 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/3TERRRNITY/my-country-app
+    git clone https://github.com/3TERRRNITY/my-country-app.git
     cd <project-directory>
     ```
 
